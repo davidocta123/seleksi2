@@ -20,13 +20,7 @@
     "url": "https://github.com/themesberg/volt-react-dashboard/issues"
   },
 
-  {
-  "name": "my-package",
-  "scripts": {
-    "build": "babel src -d lib",
-    "prebuild": "jest"
-  }
-}
+  
   "repository": {
     "type": "git",
     "url": "https://github.com/themesberg/volt-react-dashboard"
